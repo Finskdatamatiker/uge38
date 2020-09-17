@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a1e01fa-e0b5-4b2b-9e32-ccca93513c13" name="Default Changelist" comment="" />
+    <list default="true" id="2a1e01fa-e0b5-4b2b-9e32-ccca93513c13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +19,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="58df52f8-b4bd-4b94-92f1-5962efe3bf0d" />
   <component name="ProjectId" id="1hdis8pcLhBee5iOL7QKrgdtjB9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,10 +43,37 @@
       <option name="presentableId" value="Default" />
       <updated>1600347574139</updated>
       <workItem from="1600347592550" duration="284000" />
+      <workItem from="1600348414859" duration="1463000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1600348591986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600348591986" />
+    <state x="465" y="153" key="FileChooserDialogImpl" timestamp="1600348547960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600348547960" />
+    <state x="563" y="310" key="Github.ShareDialog" timestamp="1600348562064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600348562064" />
+    <state x="489" y="117" key="Github.UntrackedFilesDialog" timestamp="1600348572279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600348572279" />
+    <state x="277" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600348599179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600348599179" />
+    <state x="502" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600349841118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600349841118" />
   </component>
 </project>
